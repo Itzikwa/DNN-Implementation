@@ -1,2 +1,2 @@
 # DNN-Implementation
-Implementation from scratch of Iogistic Regression, Shallow neural network and Deep Neural Network
+Implementation from scratch of Logistic Regression, Shallow Neural Network and Deep Neural Network
